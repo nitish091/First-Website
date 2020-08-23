@@ -1,0 +1,42 @@
+div{
+	font-family: Arial;
+	font-size: 18px;
+	text-align: center;
+}
+.enclosure{
+	background: #f7f7f7;
+	border-radius: 7px;
+	padding: 11px;
+	display: inline-block;
+}
+h1{
+	font-family: Impact, Charcoal;
+	font-size: 350%;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+#button{
+	background: blue;
+	color: white;
+	font-size: 23px;	
+	padding: 11px;
+}
+#footer{
+	display: block;
+}
+#form{
+	text-align: right;
+	padding: 40px;
+	border-radius: 11px;
+}
+input.enclosure{
+	background: white;
+	padding: 5px;
+	font-size: 17px;
+}
+label.enclosure{
+	padding: 3px;
+	font-size: 21px;
+}
